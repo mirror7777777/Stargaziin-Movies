@@ -1,0 +1,22 @@
+.displaybutton{
+    display: flex;
+    flex-direction: row;
+    gap: 500px;
+    align-items: center;
+
+}
+.pass{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+   
+}
+.fail{
+    margin-top:20px ;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+.list{
+    list-style: none;
+    
+}
