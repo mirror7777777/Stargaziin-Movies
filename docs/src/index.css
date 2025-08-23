@@ -66,3 +66,40 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.movie{
+    display:  flex;
+    flex-direction: row;
+    align-items: center;    
+    gap: 20px;
+
+}
+.displaybutton{
+    display: flex;
+    flex-direction: row;
+    gap: 500px;
+    align-items: center;
+
+}
+.pass{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+   
+}
+.fail{
+    margin-top:20px ;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+.list{
+    list-style: none;
+    
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+

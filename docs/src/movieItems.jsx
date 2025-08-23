@@ -1,7 +1,6 @@
 import React from 'react'
 import Movies from './assets/moviedata'
 import { useState } from 'react';
-import './css/Button.css'
 import Buttons from './FillterButtons';
 
 export default function MovieItem() {

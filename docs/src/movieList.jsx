@@ -2,7 +2,6 @@ import React from 'react'
 import { useState } from 'react'
 import { useRef } from 'react'  
 import  Movies from './assets/moviedata.jsx'
-import './css/movie.css'
 
 export default function MovieList() {
   return (
