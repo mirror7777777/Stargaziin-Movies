@@ -18,7 +18,9 @@ function App() {
     <BrowserRouter basename='/Movie/'>
     <Routes>
       <Route path='/' element={<Hometemplate/>}>
-
+      <Route index element={<MovieInput/>}/>
+      <Route path = '/list' element = {<MovieList/>}/>
+      <Route path='/item' element ={<MovieItem/>}/>
       </Route>
     </Routes>
     </BrowserRouter>
