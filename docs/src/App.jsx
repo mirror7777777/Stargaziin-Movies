@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter basename='/Stargaziin-Movies/'>
+    <BrowserRouter basename= "/Stargaziin-Movies/">
     <Routes>
       <Route path='/' element={<Hometemplate/>}>
       <Route index element={<MovieInput/>}/>
