@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mirror7777777.github.io/Movie/",
+  "homepage": "https://mirror7777777.github.io/Stargaziin-Movies/",
   "scripts": {
     "dev": "vite",
     "clean": "rm -rf dist",
